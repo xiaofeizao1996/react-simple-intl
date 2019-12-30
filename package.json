@@ -1,0 +1,23 @@
+{
+  "name": "react-simple-intl",
+  "version": "1.0.2",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "babel": "babel src --out-dir lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.12.0",
+    "string-format": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/plugin-proposal-object-rest-spread": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4"
+  }
+}
